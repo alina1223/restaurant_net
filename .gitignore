@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 bin/
 obj/
@@ -17,3 +18,10 @@ obj/
 
 
 *.nupkg
+=======
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+>>>>>>> 2b67e50 (Primul commit)
